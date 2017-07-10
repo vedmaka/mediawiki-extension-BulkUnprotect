@@ -1,0 +1,11 @@
+{
+  "name": "BulkUnprotect",
+  "version": "0.0.1",
+  "author": [
+    "Alexey"
+  ],
+  "url": "https://www.mediawiki.org/wiki/Extension:BulkUnprotect",
+  "descriptionmsg": "bulkunprotect-desc",
+  "license-name": "MIT",
+  "type": "other"
+}
